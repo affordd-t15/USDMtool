@@ -1,0 +1,31 @@
+{
+  "name": "usdmTools",
+  "short_name": "usdmTools",
+  "icons": [
+      {
+          "src": "./content/images/companylogo192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "./content/images/companylogo256.png",
+          "sizes": "256x256",
+          "type": "image/png"
+      },
+      {
+          "src": "./content/images/companylogo384.png",
+          "sizes": "384x384",
+          "type": "image/png"
+      },
+      {
+          "src": "./content/images/companylogo512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
+  ],
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
